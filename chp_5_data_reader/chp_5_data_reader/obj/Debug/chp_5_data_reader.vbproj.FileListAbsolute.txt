@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\bin\Debug\chp_5_data_reader.exe.config
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\bin\Debug\chp_5_data_reader.exe
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\bin\Debug\chp_5_data_reader.pdb
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\bin\Debug\chp_5_data_reader.xml
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.Resources.resources
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.exe
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.xml
+D:\study\vb projects\chp_5_data_reader\chp_5_data_reader\obj\Debug\chp_5_data_reader.pdb

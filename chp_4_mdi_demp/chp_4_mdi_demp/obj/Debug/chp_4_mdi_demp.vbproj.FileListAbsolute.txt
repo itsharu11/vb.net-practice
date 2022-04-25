@@ -1,0 +1,13 @@
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\bin\Debug\chp_4_mdi_demp.exe.config
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\bin\Debug\chp_4_mdi_demp.exe
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\bin\Debug\chp_4_mdi_demp.pdb
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\bin\Debug\chp_4_mdi_demp.xml
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.Form1.resources
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.Form2.resources
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.Resources.resources
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.exe
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.xml
+D:\study\vb projects\chp_4_mdi_demp\chp_4_mdi_demp\obj\Debug\chp_4_mdi_demp.pdb

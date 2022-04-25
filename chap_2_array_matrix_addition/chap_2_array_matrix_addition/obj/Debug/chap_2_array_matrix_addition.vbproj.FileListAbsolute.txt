@@ -1,0 +1,11 @@
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\bin\Debug\chap_2_array_matrix_addition.exe.config
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\bin\Debug\chap_2_array_matrix_addition.exe
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\bin\Debug\chap_2_array_matrix_addition.pdb
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\bin\Debug\chap_2_array_matrix_addition.xml
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.vbprojAssemblyReference.cache
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.Resources.resources
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.vbproj.GenerateResource.cache
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.exe
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.xml
+D:\study\vb projects\chap_2_array_matrix_addition\chap_2_array_matrix_addition\obj\Debug\chap_2_array_matrix_addition.pdb

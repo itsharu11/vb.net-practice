@@ -1,0 +1,12 @@
+D:\study\vb projects\calc_form\calc_form\bin\Debug\calc_form.exe.config
+D:\study\vb projects\calc_form\calc_form\bin\Debug\calc_form.exe
+D:\study\vb projects\calc_form\calc_form\bin\Debug\calc_form.pdb
+D:\study\vb projects\calc_form\calc_form\bin\Debug\calc_form.xml
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.vbprojAssemblyReference.cache
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.Form1.resources
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.Resources.resources
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.vbproj.GenerateResource.cache
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.exe
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.xml
+D:\study\vb projects\calc_form\calc_form\obj\Debug\calc_form.pdb

@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\bin\Debug\chp_3_common_control.exe.config
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\bin\Debug\chp_3_common_control.exe
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\bin\Debug\chp_3_common_control.pdb
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\bin\Debug\chp_3_common_control.xml
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.Form1.resources
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.Resources.resources
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.exe
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.xml
+D:\study\vb projects\chp_3_common_control\chp_3_common_control\obj\Debug\chp_3_common_control.pdb

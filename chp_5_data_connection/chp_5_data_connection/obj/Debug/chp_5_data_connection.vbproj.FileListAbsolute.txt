@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\bin\Debug\chp_5_data_connection.exe.config
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\bin\Debug\chp_5_data_connection.exe
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\bin\Debug\chp_5_data_connection.pdb
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\bin\Debug\chp_5_data_connection.xml
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.Resources.resources
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.exe
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.xml
+D:\study\vb projects\chp_5_data_connection\chp_5_data_connection\obj\Debug\chp_5_data_connection.pdb

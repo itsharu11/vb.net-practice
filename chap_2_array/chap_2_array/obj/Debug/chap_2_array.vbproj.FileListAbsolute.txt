@@ -1,0 +1,11 @@
+D:\study\vb projects\chap_2_array\chap_2_array\bin\Debug\chap_2_array.exe.config
+D:\study\vb projects\chap_2_array\chap_2_array\bin\Debug\chap_2_array.exe
+D:\study\vb projects\chap_2_array\chap_2_array\bin\Debug\chap_2_array.pdb
+D:\study\vb projects\chap_2_array\chap_2_array\bin\Debug\chap_2_array.xml
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.vbprojAssemblyReference.cache
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.Resources.resources
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.vbproj.GenerateResource.cache
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.exe
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.xml
+D:\study\vb projects\chap_2_array\chap_2_array\obj\Debug\chap_2_array.pdb

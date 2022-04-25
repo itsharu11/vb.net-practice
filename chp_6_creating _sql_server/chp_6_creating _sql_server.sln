@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "chp_6_creating _sql_server", "chp_6_creating _sql_server\chp_6_creating _sql_server.vbproj", "{6936CF49-EA1B-4B1C-BA02-FEA553B92ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6936CF49-EA1B-4B1C-BA02-FEA553B92ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6936CF49-EA1B-4B1C-BA02-FEA553B92ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6936CF49-EA1B-4B1C-BA02-FEA553B92ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6936CF49-EA1B-4B1C-BA02-FEA553B92ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7368DF0-07A3-4649-A2B6-A2AF7D7B2FAB}
+	EndGlobalSection
+EndGlobal

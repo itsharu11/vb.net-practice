@@ -1,0 +1,10 @@
+D:\study\vb projects\length_string\length_string\bin\Debug\length_string.exe.config
+D:\study\vb projects\length_string\length_string\bin\Debug\length_string.exe
+D:\study\vb projects\length_string\length_string\bin\Debug\length_string.pdb
+D:\study\vb projects\length_string\length_string\bin\Debug\length_string.xml
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.Resources.resources
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.vbproj.GenerateResource.cache
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.exe
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.xml
+D:\study\vb projects\length_string\length_string\obj\Debug\length_string.pdb

@@ -1,0 +1,11 @@
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.vbprojAssemblyReference.cache
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.Resources.resources
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.vbproj.GenerateResource.cache
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chapter2_1\chapter2_1\bin\Debug\chapter2_1.exe.config
+D:\study\vb projects\chapter2_1\chapter2_1\bin\Debug\chapter2_1.exe
+D:\study\vb projects\chapter2_1\chapter2_1\bin\Debug\chapter2_1.pdb
+D:\study\vb projects\chapter2_1\chapter2_1\bin\Debug\chapter2_1.xml
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.exe
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.xml
+D:\study\vb projects\chapter2_1\chapter2_1\obj\Debug\chapter2_1.pdb

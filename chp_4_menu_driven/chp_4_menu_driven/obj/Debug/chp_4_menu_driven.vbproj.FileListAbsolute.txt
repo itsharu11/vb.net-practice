@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\bin\Debug\chp_4_menu_driven.exe.config
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\bin\Debug\chp_4_menu_driven.exe
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\bin\Debug\chp_4_menu_driven.pdb
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\bin\Debug\chp_4_menu_driven.xml
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.Form1.resources
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.Resources.resources
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.exe
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.xml
+D:\study\vb projects\chp_4_menu_driven\chp_4_menu_driven\obj\Debug\chp_4_menu_driven.pdb

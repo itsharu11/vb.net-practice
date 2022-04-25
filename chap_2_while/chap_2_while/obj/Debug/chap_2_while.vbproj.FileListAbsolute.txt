@@ -1,0 +1,11 @@
+D:\study\vb projects\chap_2_while\chap_2_while\bin\Debug\chap_2_while.exe.config
+D:\study\vb projects\chap_2_while\chap_2_while\bin\Debug\chap_2_while.exe
+D:\study\vb projects\chap_2_while\chap_2_while\bin\Debug\chap_2_while.pdb
+D:\study\vb projects\chap_2_while\chap_2_while\bin\Debug\chap_2_while.xml
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.vbprojAssemblyReference.cache
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.Resources.resources
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.vbproj.GenerateResource.cache
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.exe
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.xml
+D:\study\vb projects\chap_2_while\chap_2_while\obj\Debug\chap_2_while.pdb

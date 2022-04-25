@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\bin\Debug\chp_3_key_code.exe.config
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\bin\Debug\chp_3_key_code.exe
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\bin\Debug\chp_3_key_code.pdb
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\bin\Debug\chp_3_key_code.xml
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.Form1.resources
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.Resources.resources
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.exe
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.xml
+D:\study\vb projects\chp_3_key_code\chp_3_key_code\obj\Debug\chp_3_key_code.pdb

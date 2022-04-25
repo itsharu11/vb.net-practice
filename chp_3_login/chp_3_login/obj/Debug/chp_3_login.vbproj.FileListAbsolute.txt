@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_3_login\chp_3_login\bin\Debug\chp_3_login.exe.config
+D:\study\vb projects\chp_3_login\chp_3_login\bin\Debug\chp_3_login.exe
+D:\study\vb projects\chp_3_login\chp_3_login\bin\Debug\chp_3_login.pdb
+D:\study\vb projects\chp_3_login\chp_3_login\bin\Debug\chp_3_login.xml
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.Form1.resources
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.Resources.resources
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.exe
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.xml
+D:\study\vb projects\chp_3_login\chp_3_login\obj\Debug\chp_3_login.pdb

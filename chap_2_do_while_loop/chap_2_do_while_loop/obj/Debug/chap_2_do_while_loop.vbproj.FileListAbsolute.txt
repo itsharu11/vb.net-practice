@@ -1,0 +1,10 @@
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\bin\Debug\chap_2_do_while_loop.exe.config
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\bin\Debug\chap_2_do_while_loop.exe
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\bin\Debug\chap_2_do_while_loop.pdb
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\bin\Debug\chap_2_do_while_loop.xml
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.Resources.resources
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.vbproj.GenerateResource.cache
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.exe
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.xml
+D:\study\vb projects\chap_2_do_while_loop\chap_2_do_while_loop\obj\Debug\chap_2_do_while_loop.pdb

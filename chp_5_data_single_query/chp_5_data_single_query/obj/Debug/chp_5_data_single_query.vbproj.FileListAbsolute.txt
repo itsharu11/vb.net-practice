@@ -1,0 +1,10 @@
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\bin\Debug\chp_5_data_single_query.exe.config
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\bin\Debug\chp_5_data_single_query.exe
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\bin\Debug\chp_5_data_single_query.pdb
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\bin\Debug\chp_5_data_single_query.xml
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.Resources.resources
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.exe
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.xml
+D:\study\vb projects\chp_5_data_single_query\chp_5_data_single_query\obj\Debug\chp_5_data_single_query.pdb

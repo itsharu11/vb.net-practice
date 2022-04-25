@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\bin\Debug\chp_3_picture_box.exe.config
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\bin\Debug\chp_3_picture_box.exe
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\bin\Debug\chp_3_picture_box.pdb
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\bin\Debug\chp_3_picture_box.xml
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.Form1.resources
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.Resources.resources
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.exe
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.xml
+D:\study\vb projects\chp_3_picture_box\chp_3_picture_box\obj\Debug\chp_3_picture_box.pdb

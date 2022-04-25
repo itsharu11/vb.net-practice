@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\bin\Debug\chp_5_data_adapter.exe.config
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\bin\Debug\chp_5_data_adapter.exe
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\bin\Debug\chp_5_data_adapter.pdb
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\bin\Debug\chp_5_data_adapter.xml
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.Resources.resources
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.exe
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.xml
+D:\study\vb projects\chp_5_data_adapter\chp_5_data_adapter\obj\Debug\chp_5_data_adapter.pdb

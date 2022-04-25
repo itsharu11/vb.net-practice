@@ -1,0 +1,12 @@
+D:\study\vb projects\Hello_world\Hello_world\bin\Debug\Hello_world.exe.config
+D:\study\vb projects\Hello_world\Hello_world\bin\Debug\Hello_world.exe
+D:\study\vb projects\Hello_world\Hello_world\bin\Debug\Hello_world.pdb
+D:\study\vb projects\Hello_world\Hello_world\bin\Debug\Hello_world.xml
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.vbprojAssemblyReference.cache
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.Form1.resources
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.Resources.resources
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.vbproj.GenerateResource.cache
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.exe
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.xml
+D:\study\vb projects\Hello_world\Hello_world\obj\Debug\Hello_world.pdb

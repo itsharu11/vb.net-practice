@@ -1,0 +1,13 @@
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\bin\Debug\Database2_1.mdb
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\bin\Debug\chp_6_database_gui.exe.config
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\bin\Debug\chp_6_database_gui.exe
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\bin\Debug\chp_6_database_gui.pdb
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\bin\Debug\chp_6_database_gui.xml
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.Form1.resources
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.Resources.resources
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.exe
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.xml
+D:\study\vb projects\chp_6_database_gui\chp_6_database_gui\obj\Debug\chp_6_database_gui.pdb

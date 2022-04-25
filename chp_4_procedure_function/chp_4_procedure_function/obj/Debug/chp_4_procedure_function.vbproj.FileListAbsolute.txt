@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\bin\Debug\chp_4_procedure_function.exe.config
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\bin\Debug\chp_4_procedure_function.exe
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\bin\Debug\chp_4_procedure_function.pdb
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\bin\Debug\chp_4_procedure_function.xml
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.Resources.resources
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.exe
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.xml
+D:\study\vb projects\chp_4_procedure_function\chp_4_procedure_function\obj\Debug\chp_4_procedure_function.pdb

@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\bin\Debug\chp_5_data_set_primary_key.exe.config
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\bin\Debug\chp_5_data_set_primary_key.exe
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\bin\Debug\chp_5_data_set_primary_key.pdb
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\bin\Debug\chp_5_data_set_primary_key.xml
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.Resources.resources
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.exe
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.xml
+D:\study\vb projects\chp_5_data_set_primary_key\chp_5_data_set_primary_key\obj\Debug\chp_5_data_set_primary_key.pdb

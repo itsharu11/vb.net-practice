@@ -1,0 +1,12 @@
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\bin\Debug\chp_4_common_dialog_box.exe.config
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\bin\Debug\chp_4_common_dialog_box.exe
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\bin\Debug\chp_4_common_dialog_box.pdb
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\bin\Debug\chp_4_common_dialog_box.xml
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.Form1.resources
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.Resources.resources
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.exe
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.xml
+D:\study\vb projects\chp_4_common_dialog_box\chp_4_common_dialog_box\obj\Debug\chp_4_common_dialog_box.pdb

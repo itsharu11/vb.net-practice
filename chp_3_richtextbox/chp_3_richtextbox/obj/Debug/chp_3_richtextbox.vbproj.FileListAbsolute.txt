@@ -1,0 +1,11 @@
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\bin\Debug\chp_3_richtextbox.exe.config
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\bin\Debug\chp_3_richtextbox.exe
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\bin\Debug\chp_3_richtextbox.pdb
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\bin\Debug\chp_3_richtextbox.xml
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.Form1.resources
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.Resources.resources
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.exe
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.xml
+D:\study\vb projects\chp_3_richtextbox\chp_3_richtextbox\obj\Debug\chp_3_richtextbox.pdb

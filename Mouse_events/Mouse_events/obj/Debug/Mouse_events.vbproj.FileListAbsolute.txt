@@ -1,0 +1,12 @@
+D:\study\vb projects\Mouse_events\Mouse_events\bin\Debug\Mouse_events.exe.config
+D:\study\vb projects\Mouse_events\Mouse_events\bin\Debug\Mouse_events.exe
+D:\study\vb projects\Mouse_events\Mouse_events\bin\Debug\Mouse_events.pdb
+D:\study\vb projects\Mouse_events\Mouse_events\bin\Debug\Mouse_events.xml
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.vbprojAssemblyReference.cache
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.Form1.resources
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.Resources.resources
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.vbproj.GenerateResource.cache
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.exe
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.xml
+D:\study\vb projects\Mouse_events\Mouse_events\obj\Debug\Mouse_events.pdb

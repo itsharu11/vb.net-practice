@@ -1,0 +1,13 @@
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\bin\Debug\Database2_1.mdb
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\bin\Debug\chp_6_bound_list.exe.config
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\bin\Debug\chp_6_bound_list.exe
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\bin\Debug\chp_6_bound_list.pdb
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\bin\Debug\chp_6_bound_list.xml
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.vbprojAssemblyReference.cache
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.Form1.resources
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.Resources.resources
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.vbproj.GenerateResource.cache
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.exe
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.xml
+D:\study\vb projects\chp_6_bound_list\chp_6_bound_list\obj\Debug\chp_6_bound_list.pdb

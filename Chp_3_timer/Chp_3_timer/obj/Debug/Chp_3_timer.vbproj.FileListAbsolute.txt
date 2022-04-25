@@ -1,0 +1,12 @@
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\bin\Debug\Chp_3_timer.exe.config
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\bin\Debug\Chp_3_timer.exe
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\bin\Debug\Chp_3_timer.pdb
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\bin\Debug\Chp_3_timer.xml
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.vbprojAssemblyReference.cache
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.Form1.resources
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.Resources.resources
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.vbproj.GenerateResource.cache
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.exe
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.xml
+D:\study\vb projects\Chp_3_timer\Chp_3_timer\obj\Debug\Chp_3_timer.pdb

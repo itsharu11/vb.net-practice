@@ -1,0 +1,10 @@
+D:\study\vb projects\chap_2_grade\chap_2_grade\bin\Debug\chap_2_grade.exe.config
+D:\study\vb projects\chap_2_grade\chap_2_grade\bin\Debug\chap_2_grade.exe
+D:\study\vb projects\chap_2_grade\chap_2_grade\bin\Debug\chap_2_grade.pdb
+D:\study\vb projects\chap_2_grade\chap_2_grade\bin\Debug\chap_2_grade.xml
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.Resources.resources
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.vbproj.GenerateResource.cache
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.vbproj.CoreCompileInputs.cache
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.exe
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.xml
+D:\study\vb projects\chap_2_grade\chap_2_grade\obj\Debug\chap_2_grade.pdb
